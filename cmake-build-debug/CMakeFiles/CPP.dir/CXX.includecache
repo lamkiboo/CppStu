@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Desktop/CPP/src/include/LandOwner.cpp
+LandOwner.h
+C:/Users/Administrator/Desktop/CPP/src/include/LandOwner.h
+
+C:/Users/Administrator/Desktop/CPP/src/include/LandOwner.h
+iostream
+-
+memory.h
+-
+vector
+-
+cstdlib
+-
+ctime
+-
+iterator
+-
+algorithm
+-
+

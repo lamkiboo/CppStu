@@ -11,7 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea5a9082-4998-477f-b0ce-2d95d1084947" name="Default Changelist" comment="" />
+    <list default="true" id="ea5a9082-4998-477f-b0ce-2d95d1084947" name="Default Changelist" comment="Second Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CPP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CPP.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/include/LandOwner.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/include/LandOwner.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/include/LandOwner.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/include/LandOwner.h" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +28,13 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1U8kfiz8Ro7Kd9fajohFyGaSRB5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -62,10 +73,34 @@
       <workItem from="1574816768575" duration="213000" />
       <workItem from="1574817183615" duration="328000" />
       <workItem from="1574817556174" duration="18395000" />
+      <workItem from="1574862993432" duration="1097000" />
     </task>
+    <task id="LOCAL-00001" summary="Second Commit">
+      <created>1574863205411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574863205411</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
 </project>

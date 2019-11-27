@@ -81,12 +81,13 @@ bool LandOwner::isContains(int cardNum) {
     //使用find算法寻找
     vector<int>::iterator iter = find(surplusCards.begin(), surplusCards.end(), cardNum);
     //遍历到了最后 则为未找到 否则为找到
+
     return iter != surplusCards.end();
 }
 
 void LandOwner::deleteCard(vector<int>& cardVec, int card){
     //使用算法删除
-    auto iter = find(cardVec.begin(), cardVec.end(), card);
+    vector<int>::iterator iter = find(cardVec.begin(), cardVec.end(), card);
     if(iter != cardVec.end()){
         cardVec.erase(iter);
     }

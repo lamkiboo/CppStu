@@ -11,6 +11,7 @@
 #include <ctime>
 #include <iterator>
 #include <algorithm>
+#include <typeinfo>
 
 using namespace std;
 

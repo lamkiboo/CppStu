@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/Administrator/Desktop/CPP/src/include/Integer.cpp" "C:/Users/Administrator/Desktop/CPP/cmake-build-debug/CMakeFiles/CPP.dir/src/include/Integer.cpp.obj"
   "C:/Users/Administrator/Desktop/CPP/src/include/LandOwner.cpp" "C:/Users/Administrator/Desktop/CPP/cmake-build-debug/CMakeFiles/CPP.dir/src/include/LandOwner.cpp.obj"
   "C:/Users/Administrator/Desktop/CPP/src/include/Student.cpp" "C:/Users/Administrator/Desktop/CPP/cmake-build-debug/CMakeFiles/CPP.dir/src/include/Student.cpp.obj"
   "C:/Users/Administrator/Desktop/CPP/src/main/main.cpp" "C:/Users/Administrator/Desktop/CPP/cmake-build-debug/CMakeFiles/CPP.dir/src/main/main.cpp.obj"

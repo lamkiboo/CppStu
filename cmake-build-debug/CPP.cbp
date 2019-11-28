@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Administrator/Desktop/CPP/src/include/Integer.cpp">
+			<Option target="CPP"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CPP/src/include/Integer.h">
+			<Option target="CPP"/>
+		</Unit>
 		<Unit filename="C:/Users/Administrator/Desktop/CPP/src/include/LandOwner.cpp">
 			<Option target="CPP"/>
 		</Unit>

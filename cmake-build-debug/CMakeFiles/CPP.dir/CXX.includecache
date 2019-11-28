@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Administrator/Desktop/CPP/src/include/LandOwner.cpp
-LandOwner.h
-C:/Users/Administrator/Desktop/CPP/src/include/LandOwner.h
+../src/include/Integer.h
 
-C:/Users/Administrator/Desktop/CPP/src/include/LandOwner.h
+../src/include/LandOwner.h
 iostream
 -
 memory.h
@@ -25,4 +23,28 @@ iterator
 -
 algorithm
 -
+typeinfo
+-
+
+../src/include/Student.h
+iostream
+-
+memory.h
+-
+
+C:/Users/Administrator/Desktop/CPP/src/include/Integer.cpp
+Integer.h
+C:/Users/Administrator/Desktop/CPP/src/include/Integer.h
+
+C:/Users/Administrator/Desktop/CPP/src/include/Integer.h
+
+C:/Users/Administrator/Desktop/CPP/src/main/main.cpp
+iostream
+-
+LandOwner.h
+C:/Users/Administrator/Desktop/CPP/src/main/LandOwner.h
+Student.h
+C:/Users/Administrator/Desktop/CPP/src/main/Student.h
+Integer.h
+C:/Users/Administrator/Desktop/CPP/src/main/Integer.h
 

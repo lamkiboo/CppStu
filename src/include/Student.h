@@ -16,12 +16,16 @@ public:
     Student(string, string);
     ~Student();
 
-    void ShwoInfo();
+    void ShowInfo();
+    void InitScores(); //初始化学生成绩数组 默认分配一个元素空间
+    void AddScore(float); //向scores数组添加分数
 
 private:
     string m_name;
     string m_desc;
     int m_age;
+    int scoreCount; //学生成绩个数
+    float* scores; //学生成绩数组（各科成绩）
 };
 
 

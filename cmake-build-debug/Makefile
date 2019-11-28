@@ -122,6 +122,33 @@ CPP/fast:
 	$(MAKE) -f CMakeFiles\CPP.dir\build.make CMakeFiles/CPP.dir/build
 .PHONY : CPP/fast
 
+src/include/Integer.obj: src/include/Integer.cpp.obj
+
+.PHONY : src/include/Integer.obj
+
+# target to build an object file
+src/include/Integer.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPP.dir\build.make CMakeFiles/CPP.dir/src/include/Integer.cpp.obj
+.PHONY : src/include/Integer.cpp.obj
+
+src/include/Integer.i: src/include/Integer.cpp.i
+
+.PHONY : src/include/Integer.i
+
+# target to preprocess a source file
+src/include/Integer.cpp.i:
+	$(MAKE) -f CMakeFiles\CPP.dir\build.make CMakeFiles/CPP.dir/src/include/Integer.cpp.i
+.PHONY : src/include/Integer.cpp.i
+
+src/include/Integer.s: src/include/Integer.cpp.s
+
+.PHONY : src/include/Integer.s
+
+# target to generate assembly for a file
+src/include/Integer.cpp.s:
+	$(MAKE) -f CMakeFiles\CPP.dir\build.make CMakeFiles/CPP.dir/src/include/Integer.cpp.s
+.PHONY : src/include/Integer.cpp.s
+
 src/include/LandOwner.obj: src/include/LandOwner.cpp.obj
 
 .PHONY : src/include/LandOwner.obj
@@ -212,6 +239,9 @@ help:
 	@echo ... CPP
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... src/include/Integer.obj
+	@echo ... src/include/Integer.i
+	@echo ... src/include/Integer.s
 	@echo ... src/include/LandOwner.obj
 	@echo ... src/include/LandOwner.i
 	@echo ... src/include/LandOwner.s
